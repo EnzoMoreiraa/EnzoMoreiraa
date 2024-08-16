@@ -7,6 +7,7 @@ I'm 15 years old, living in Brazil, currently attending high school at Senac - R
 
 ## 💻 My Development Toolkit
 ![Technologies and Tools](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
+![Technologies and Tools](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
 <!--
 **EnzoMoreiraa/EnzoMoreiraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
