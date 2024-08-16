@@ -6,7 +6,7 @@ I'm 15 years old, living in Brazil, currently attending high school at Senac - R
 - 🌱 I’m currently learning Frontend (HTML, CSS, and JS)
 
 ## 💻 My Development Toolkit
-![Technologies and Tools](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AJavaScript-logo.png&psig=AOvVaw04nB-hXZ1TqqJ87uyQBr0j&ust=1723896395273000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNi9suW8-YcDFQAAAAAdAAAAABAE)
+![Technologies and Tools](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
 <!--
 **EnzoMoreiraa/EnzoMoreiraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
