@@ -5,8 +5,6 @@ I'm 15 years old, living in Brazil, currently attending high school at Senac - R
 - 🔭 I’m currently cooking something
 - 🌱 I’m currently learning Frontend (HTML, CSS, and JS)
 
-- <div style="margin-bottom = 10px"></div>
-
 ## 💻 My Development Toolkit
 
 <div style="display: inline-block;">
