@@ -7,9 +7,12 @@ I'm 15 years old, living in Brazil, currently attending high school at Senac - R
 
 ## 💻 My Development Toolkit
 
+<div style="display: inline-block;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="50" height="50">
   <img src="https://emaillistvalidation.com/blog/content/images/2023/09/HTML5_logo_and_wordmark.svg.png" alt="HTML" width="50" height="50">
   <img src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png" alt="CSS" width="50" height="50">
+</div>
+
 
 <!--
 **EnzoMoreiraa/EnzoMoreiraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
