@@ -13,7 +13,8 @@ I'm 15 years old, living in Brazil, currently attending high school at Senac - R
   <img src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png" alt="CSS" height="50">
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoMoreiraa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoMoreiraa&layout=compact&title_color=ff5733&text_color=c9d1d9&bg_color=0d1117&border_color=ffffff&icon_color=2bbc8a)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **EnzoMoreiraa/EnzoMoreiraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
