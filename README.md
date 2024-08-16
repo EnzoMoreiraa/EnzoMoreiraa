@@ -4,6 +4,8 @@ I'm 15 years old, living in Brazil, currently attending high school at Senac - R
 
 - 🔭 I’m currently cooking something
 - 🌱 I’m currently learning Frontend (HTML, CSS, and JS)
+
+![Technologies and Tools](https://github.com/your-username/your-repository/blob/main/your-image.png)
 <!--
 **EnzoMoreiraa/EnzoMoreiraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
